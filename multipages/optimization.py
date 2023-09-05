@@ -113,11 +113,11 @@ def opt():
                     new_option.append(option)
 
             print(new_option)
-            matrix_coef_not_zero = []
-            for element in matrix:
-                if element["coef"] != 0:
-                    matrix_coef_not_zero.append(element)
-
+            #matrix_coef_not_zero = []
+            #for element in matrix:
+                #if element["coef"] != 0:
+                    #matrix_coef_not_zero.append(element)
+            matrix_coef_not_zero = matrix
             optimizer = CRUD.get_optimizer_by_descript(opt_description).name
             obj = data.obj
             form = {'obj': obj,
