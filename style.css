@@ -1,0 +1,112 @@
+.css-1x8cf1d, .css-629wbf {
+    background-color: white;
+    border-radius: 8px;
+    color: #0000f5;
+    font-size 20px;
+    height: 30px;
+    width: 100%;
+}
+
+.css-1x8cf1d:hover, .css-629wbf:hover {
+    background-color: rgb(233, 233, 233);
+    border-radius: 8px;
+    border-color: green
+    color: blue;
+    font-size 20px;
+    height: 30px;
+    width: 100%;
+}
+
+.css-po3vlj {
+   height: 100px;
+   width: 100%;
+   border-radius: 8px;
+}
+
+.css-fg4pbf {
+    background: linear-gradient(to top, #666699 12%, #003366 131%);
+    color: white;
+    text-align:center;
+}
+
+.css-18ni7ap {
+    background: linear-gradient(to top, #666699 12%, #003366 131%);
+    position: absolute;
+    top: -100px;
+}
+
+.css-16idsys {
+    color: white;
+}
+
+.css-10trblm {
+    color: white;
+}
+
+.css-17lntkn {
+    color: #154159;
+}
+
+.css-h5rgaw {
+    position: absolute;
+    left: 50px;
+    top: -100px;
+}
+
+.css-9s5bis {
+    background: #8f3e3e;
+}
+
+.css-81oif8 {
+    color: white;
+    /*text-shadow: 1px 1px 1px #000;*/
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+h3, .css-184tjsw, .css-1x8cf1d, .css-1offfwp, .css-pkbazv, .css-17lntkn, .css-183lzff {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.st-bc, .st-cu {
+    color: #0000f5;
+    /*text-shadow: 1px 1px 1px #000;*/
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}
+.st-bz, .st-bx {
+    color: #0000f5;
+}
+
+.css-cap72c {
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.css-6qob1r {
+    background: linear-gradient(45deg, rgb(171, 194, 206), rgb(105, 116, 255));
+}
+
+.stAlert {
+    background-color: white;
+
+}
+
+.css-1offfwp a {
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.css-1kyxreq {
+    position: fixed;
+    right: -275px;
+    top: 25px;
+
+}
+
+.css-1b0udgb {
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
